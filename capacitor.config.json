@@ -1,0 +1,14 @@
+{
+  "appId": "com.oldmetronome.app",
+  "appName": "Maelzel & Co. Metronome",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "ios": {
+    "contentInset": "always",
+    "backgroundColor": "#120d0a",
+    "preferredContentMode": "mobile"
+  },
+  "server": {
+    "iosScheme": "capacitor"
+  }
+}

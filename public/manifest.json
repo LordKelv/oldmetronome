@@ -1,0 +1,18 @@
+{
+  "name": "Maelzel & Co. — Historical Mechanical Metronomes",
+  "short_name": "OldMetronome",
+  "description": "Authentic vintage mechanical metronome collection with Web Audio physical modeling and tactile pendulum controls.",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#120d0a",
+  "theme_color": "#120d0a",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
