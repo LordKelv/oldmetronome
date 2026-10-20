@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <rect width="128" height="128" rx="28" fill="#18110D"/>
+  <path d="M46 20H82L100 106H28L46 20Z" fill="url(#wood)" stroke="#D4A359" stroke-width="3"/>
+  <path d="M55 28H73L81 96H47L55 28Z" fill="#2A1D15" stroke="#8C6530" stroke-width="1.5"/>
+  <line x1="64" y1="94" x2="82" y2="26" stroke="#E8C682" stroke-width="3.5" stroke-linecap="round"/>
+  <polygon points="69,50 83,54 79,66 67,62" fill="#D4A359" stroke="#FFF2CC" stroke-width="1.2"/>
+  <circle cx="64" cy="94" r="6" fill="#D4A359"/>
+  <rect x="23" y="106" width="82" height="7" rx="3" fill="#8C6530"/>
+  <defs>
+    <linearGradient id="wood" x1="28" y1="20" x2="100" y2="106" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6E2E1E"/>
+      <stop offset="0.5" stop-color="#4A1C11"/>
+      <stop offset="1" stop-color="#2B0F08"/>
+    </linearGradient>
+  </defs>
+</svg>
